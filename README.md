@@ -1,102 +1,41 @@
-<!-- 全局背景：适配GitHub暗黑模式，青蓝主色调 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A99D,0f172a&height=120&section=header&text=Yuhang%20Wang&fontSize=35&fontAlignY=35&desc=Medical%20AI%20Researcher&descSize=15&descAlignY=65&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=100&section=header&text=Gloria%20Repo&fontSize=30&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<h2 align="center">🚀 Medical AI · Full Stack · Deep Learning</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00A99D&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile;Precision+Medical+Image+Segmentation;Deep+Learning+%7C+Full-Stack+Engineering" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00A99D&center=true&vCenter=true&width=600&height=30&lines=Building+MAGE-UNet+for+Medical+Image+Segmentation;AI+Researcher+%7C+Engineer+%7C+Creator" alt="Typing SVG" />
 </p>
 
----
+<hr style="height:2px;border-width:0;color:#333;background-color:#333">
 
-### 👨‍💻 About Me | 个人档案
-<p align="center" style="background-color: #0f172a; padding: 20px; border-radius: 10px; border: 1px solid #00A99D;">
-  <table align="center">
-    <tr>
-      <td align="center" width="300">
-        <img src="https://avatars.githubusercontent.com/u/166706053?v=4" width="200" height="200" style="border-radius:50%;border:3px solid #00A99D;" alt="avatar" />
-      </td>
-      <td align="left" width="500">
-        <ul style="list-style-type: '🔹 '; padding-left: 20px; color: #e2e8f0;">
-          <li><strong>🎓 Affiliation</strong>: Shandong Jianzhu University</li>
-          <li><strong>🔭 Current Focus</strong>: MAGE-UNet: Multi-scale Attention-Guided Encoder-Decoder with Large-Kernel Fusion for High-Precision Medical Image Segmentation</li>
-          <li><strong>🌱 Exploring</strong>: Deep Learning, Medical Computer Vision, and Edge AI Deployment</li>
-          <li><strong>💬 Ask me about</strong>: PyTorch, Medical Image Segmentation, Full-Stack Engineering, Docker Deployment</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-### 🛠️ Tech Stack | 技术栈
-<p align="center" style="background-color: #0f172a; padding: 20px; border-radius: 10px; border: 1px solid #00A99D;">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,java,vue,js,html,css,docker,linux,git&theme=dark&perline=6" alt="tech stack icons" />
+<h3 align="center">🧑‍💻 About Me</h3>
+<p align="center">
+I focus on high-precision medical image segmentation, deep learning architecture design, and full-stack AI system deployment.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-00A99D?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-00A99D?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloriaRepo&layout=compact&theme=github-dark&hide_border=true&bg_color=141414&text_color=ffffff&title_color=00A99D" height="160">
 </p>
 
----
-
-### 📊 GitHub Analytics | 数据看板（已优化真实感+配色）
-<p align="center" style="background-color: #0f172a; padding: 20px; border-radius: 10px; border: 1px solid #00A99D;">
-  <!-- 去掉了假的streak，用真实贡献数据 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GloriaRepo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&icon_color=00A99D&title_color=00A99D&text_color=e2e8f0" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloriaRepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00A99D&text_color=e2e8f0" height="160" />
-</p>
-
+<h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
-  <!-- 真实贡献蛇动画，背景透明适配暗黑 -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="800" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,java,vue,docker,linux,git&theme=dark" />
 </p>
 
----
-
-### 🚀 Featured Project | 核心项目
-<p align="center" style="background-color: #0f172a; padding: 20px; border-radius: 10px; border: 1px solid #00A99D;">
-  <table align="center">
-    <tr>
-      <td align="center" width="400">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00A99D&height=200&section=body&text=MAGE-UNet&fontSize=25&fontAlignY=40&desc=Multi-scale%20Attention-Guided%20Encoder-Decoder&descSize=12&descAlignY=60" width="380" />
-      </td>
-      <td align="left" width="400">
-        <h3 align="center" style="color:#00A99D;">MAGE-UNet</h3>
-        <p align="center" style="color:#e2e8f0;">A Multi-scale Attention-Guided Encoder-Decoder with Large-Kernel Fusion for High-Precision Medical Image Segmentation</p>
-        <ul style="color:#e2e8f0;">
-          <li>🔍 Multi-scale attention mechanism for fine-grained feature capture</li>
-          <li>🧠 Large-kernel fusion module to enhance global context awareness</li>
-          <li>📈 State-of-the-art performance on medical image datasets</li>
-        </ul>
-        <p align="center">
-          <a href="https://github.com/GloriaRepo/MAGE-UNet">
-            <img src="https://img.shields.io/badge/View%20Project-00A99D?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-### 🌐 Connect with Me | 联系方式
-<p align="center" style="background-color: #0f172a; padding: 20px; border-radius: 10px; border: 1px solid #00A99D;">
-  <a href="mailto:18053632192@163.com">
-    <img src="https://img.shields.io/badge/Email-00A99D?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/GloriaRepo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<h3 align="center">🚀 Featured Project</h3>
+<p align="center">
+  <a href="https://github.com/GloriaRepo/MAGE-UNet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GloriaRepo&repo=MAGE-UNet&theme=github-dark&hide_border=true&bg_color=141414&text_color=ffffff&title_color=00A99D" height="150">
   </a>
 </p>
 
+<h3 align="center">🌐 Connect</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A99D,0f172a&height=120&section=footer&animation=fadeIn" alt="footer banner" />
+  <a href="mailto:18053632192@163.com"><img src="https://img.shields.io/badge/Email-00A99D?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/GloriaRepo"><img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=80&section=footer&animation=twinkling" />
 </p>
