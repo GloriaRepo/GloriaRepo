@@ -1,5 +1,5 @@
 # Yuhang Wang
-### Shandong Jianzhu University | Medical AI Research
+### Shandong Jianzhu University
 
 ---
 
